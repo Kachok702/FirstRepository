@@ -2,4 +2,5 @@ Hello world!
 1324
 another line by user1
 Good evening! (from branch master)
-line from user1
+line from user2
+
