@@ -1,3 +1,4 @@
 Hello world!
 1324
 Good evening! (from branch master)
+line from user2
